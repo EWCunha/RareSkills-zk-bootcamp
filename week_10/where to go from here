@@ -1,0 +1,16 @@
+1) ZK for L1s and L2s
+2) ZK for provable computation in general (risc0, sp1, valida)
+3) Smart contracts (Tornado Cash, Semaphore, Solana Token2022)
+4) Highlevel "zk" languages like Cairo, Noir, Leo
+Languages for arithmetic circuits
+* circom --> groth16 and plonk (SNARKS)
+
+Halo2 Zcash, Ethereum Foundation
+
+StarkNet
+Polygon
+ZkSync
+STARK Plonk
+Folding/recursion
+
+snark/trusted setup ceremony

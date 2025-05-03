@@ -1,0 +1,6 @@
+1. How to define the length of public inputs? at least 1 / part of architecture design
+2. Where do I go from here?
+Circom bootcamp
+
+3. Defining alpha, beta, delta, and gamma
+snark/trusted setup ceremony
